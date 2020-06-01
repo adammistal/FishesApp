@@ -14,10 +14,11 @@
         android:id="@+id/item_title_txt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="#7E6C7E"
         android:fontFamily="sans-serif-medium"
         android:padding="8dp"
         android:textColor="#000"
-        android:textSize="24sp"
+        android:textSize="33sp"
         tools:text="Title" />
 
     <View
