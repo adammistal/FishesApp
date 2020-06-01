@@ -18,7 +18,7 @@
         android:fontFamily="sans-serif-medium"
         android:padding="8dp"
         android:textColor="#000"
-        android:textSize="33sp"
+        android:textSize="34sp"
         tools:text="Title" />
 
     <View

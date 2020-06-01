@@ -16,6 +16,6 @@
         android:layout_height="wrap_content"
         android:text="Sync"
         android:textColor="#f0f"
-        android:textSize="60sp" />
+        android:textSize="12sp" />
 
 </LinearLayout>
